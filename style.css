@@ -1,32 +1,32 @@
 @import url(../fonts/ptsans-regular.css);
 @import url(../fonts/pfdindisplaypro-medium.css);
 ::-webkit-input-placeholder {
-  font-family: 'PTSansRegular';
+  font-family: 'Exo 2';
   font-size: 16px;
   color: #2f2f2f; }
 
 ::-o-input-placeholder {
-  font-family: 'PTSansRegular';
+  font-family: 'Exo 2';
   font-size: 16px;
   color: #2f2f2f; }
 
 ::-moz-input-placeholder {
-  font-family: 'PTSansRegular';
+  font-family: 'Exo 2';
   font-size: 16px;
   color: #2f2f2f; }
 
 ::-ms-input-placeholder {
-  font-family: 'PTSansRegular';
+  font-family: 'Exo 2';
   font-size: 16px;
   color: #2f2f2f; }
 
 input-placeholder {
-  font-family: 'PTSansRegular';
+  font-family: 'Exo 2';
   font-size: 16px;
   color: #2f2f2f; }
 
 body {
-  font-family: 'PTSansRegular'; }
+  font-family: 'Exo 2'; }
 
 h1, h2, h3, h4, h5, h6 {
   font-weight: normal; }
@@ -228,7 +228,7 @@ h1, h2, h3, h4, h5, h6 {
       left: -20px;
       top: 1px; }
     .top h2 p {
-      font-family: 'PTSansRegular';
+      font-family: 'Exo 2';
       font-size: 18px; }
   .top .right_side {
     display: inline-block;
@@ -276,7 +276,7 @@ h1, h2, h3, h4, h5, h6 {
     .header .siders p {
       display: inline-block;
       margin: 21px 0 0 11px;
-      font-family: 'PTSansRegular'; }
+      font-family: 'Exo 2'; }
     .header .siders .side1 {
       margin: 7px 0; }
     .header .siders .side2 {
@@ -299,7 +299,7 @@ h1, h2, h3, h4, h5, h6 {
       font-family: 'pfdindisplaypro-medium'; }
       .header .forma p span {
         font-size: 16px;
-        font-family: 'PTSansRegular';
+        font-family: 'Exo 2';
         display: block;
         padding-top: 10px; }
     .header .forma input[type="text"] {
@@ -542,7 +542,7 @@ h1, h2, h3, h4, h5, h6 {
             vertical-align: middle;
             display: table;
             font-size: 16px;
-            font-family: 'PTSansRegular';
+            font-family: 'Exo 2';
             color: #fff; }
       .materials .mat_blocks .mat_block .prise p {
         font-size: 22px;
@@ -662,7 +662,7 @@ h1, h2, h3, h4, h5, h6 {
       margin-bottom: 10px; }
       .polza .polza_blocks .polza_block .polza_text {
         font-size: 20px;
-        font-family: 'PTSansRegular';
+        font-family: 'Exo 2';
         text-align: left;
         position: absolute;
         top: 50px;
@@ -843,7 +843,7 @@ h1, h2, h3, h4, h5, h6 {
         color: #000; }
       .doc .nouts .nout_block .doc_text p {
         font-size: 14px;
-        font-family: 'PTSansRegular';
+        font-family: 'Exo 2';
         color: #000;
         line-height: 20px; }
 
@@ -875,7 +875,7 @@ h1, h2, h3, h4, h5, h6 {
     .shema ul li p {
       text-align: center;
       font-size: 16px;
-      font-family: 'PTSansRegular';
+      font-family: 'Exo 2';
       line-height: 22px; }
     .shema ul li .btn button {
       margin: 12px auto;
@@ -1015,7 +1015,7 @@ h1, h2, h3, h4, h5, h6 {
       padding-left: 10px;
       text-align: left;
       font-size: 14px;
-      font-family: 'PTSansRegular';
+      font-family: 'Exo 2';
       line-height: 22px; }
   .otziv .shadow {
     background: url("img/box_shadow.png");
@@ -1069,7 +1069,7 @@ h1, h2, h3, h4, h5, h6 {
       padding-top: 20px; }
       .sertifikat .forma p span {
         font-size: 16px;
-        font-family: 'PTSansRegular';
+        font-family: 'Exo 2';
         display: block;
         padding-top: 10px;
         padding-bottom: 10px; }
@@ -1127,7 +1127,7 @@ h1, h2, h3, h4, h5, h6 {
         margin-left: 3px; }
         .karta .karta_block .form_valid p span {
           font-size: 15px;
-          font-family: 'PTSansRegular';
+          font-family: 'Exo 2';
           display: block;
           padding-top: 10px;
           padding-bottom: 10px;
@@ -1176,7 +1176,7 @@ h1, h2, h3, h4, h5, h6 {
   .footer .left_side p {
     font-size: 16px;
     padding-top: 25px;
-    font-family: 'PTSansRegular';
+    font-family: 'Exo 2';
     padding-bottom: 10px; }
     .footer .left_side p a {
       color: #000; }
@@ -1366,7 +1366,7 @@ h1, h2, h3, h4, h5, h6 {
     font-family: 'pfdindisplaypro-medium'; }
     .popup p span {
       font-size: 16px;
-      font-family: 'PTSansRegular';
+      font-family: 'Exo 2';
       display: block;
       padding-top: 10px; }
   .popup form {
