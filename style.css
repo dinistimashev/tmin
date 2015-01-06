@@ -1,5 +1,5 @@
 @import url(../fonts/ptsans-regular.css);
-@import url(../fonts/pfdindisplaypro-medium.css);
+@import url(../fonts/Exo 2.css);
 ::-webkit-input-placeholder {
   font-family: 'Exo 2';
   font-size: 16px;
@@ -159,7 +159,7 @@ h1, h2, h3, h4, h5, h6 {
       right: 0px; }
 
 .btnmod {
-  font-family: 'pfdindisplaypro-medium';
+  font-family: 'Exo 2';
   text-align: center;
   text-shadow: 1px 1px 3px #fff;
   border: 0;
@@ -247,7 +247,7 @@ h1, h2, h3, h4, h5, h6 {
         border: none;
         margin-top: 3px;
         text-decoration: none;
-        font-family: 'pfdindisplaypro-medium'; }
+        font-family: 'Exo 2'; }
       .top .right_side p ins {
         color: #57b100;
         font-size: 16px;
@@ -259,7 +259,7 @@ h1, h2, h3, h4, h5, h6 {
   margin-top: 20px;
   text-align: center;
   font-size: 38px;
-  font-family: 'pfdindisplaypro-medium'; }
+  font-family: 'Exo 2'; }
 .page_title p {
   margin-top: 10px;
   font-size: 18px;
@@ -296,7 +296,7 @@ h1, h2, h3, h4, h5, h6 {
       color: #fff;
       text-align: center;
       margin-top: 28px;
-      font-family: 'pfdindisplaypro-medium'; }
+      font-family: 'Exo 2'; }
       .header .forma p span {
         font-size: 16px;
         font-family: 'Exo 2';
@@ -547,7 +547,7 @@ h1, h2, h3, h4, h5, h6 {
       .materials .mat_blocks .mat_block .prise p {
         font-size: 22px;
         color: #50b918;
-        font-family: 'pfdindisplaypro-medium';
+        font-family: 'Exo 2';
         text-align: center;
         padding-top: 20px; }
         .materials .mat_blocks .mat_block .prise p ins {
@@ -568,14 +568,14 @@ h1, h2, h3, h4, h5, h6 {
   margin-top: -30px; }
   .konsul .konsul_title h2 {
     font-size: 28px;
-    font-family: 'pfdindisplaypro-medium';
+    font-family: 'Exo 2';
     text-align: center;
     color: #fff;
     padding-top: 150px; }
   .konsul .btn {
     text-align: center; }
     .konsul .btn button {
-      font-family: 'pfdindisplaypro-medium';
+      font-family: 'Exo 2';
       font-size: 23px;
       text-align: center;
       margin: 33px auto;
@@ -633,7 +633,7 @@ h1, h2, h3, h4, h5, h6 {
   background: url("img/butylki_bg.png") no-repeat left center, url("img/butylki2.png") no-repeat right center; }
   .polza .polza_title h2 {
     font-size: 40px;
-    font-family: 'pfdindisplaypro-medium';
+    font-family: 'Exo 2';
     text-align: center; }
     .polza .polza_title h2 span:before {
       content: url("img/icoL.png");
@@ -697,7 +697,7 @@ h1, h2, h3, h4, h5, h6 {
       /* IE6-9 */
       /* Old browsers */ }
       .polza .polza_btn button p {
-        font-family: 'pfdindisplaypro-medium';
+        font-family: 'Exo 2';
         font-size: 18px;
         color: #fff; }
       .polza .polza_btn button:hover {
@@ -734,14 +734,14 @@ h1, h2, h3, h4, h5, h6 {
   margin-top: -30px; }
   .konsul_repeat .konsul_repeat_title h2 {
     font-size: 28px;
-    font-family: 'pfdindisplaypro-medium';
+    font-family: 'Exo 2';
     text-align: center;
     color: #fff;
     padding-top: 150px; }
   .konsul_repeat .btn {
     text-align: center; }
     .konsul_repeat .btn button {
-      font-family: 'pfdindisplaypro-medium';
+      font-family: 'Exo 2';
       font-size: 23px;
       text-align: center;
       margin: 33px auto;
@@ -803,7 +803,7 @@ h1, h2, h3, h4, h5, h6 {
   top: 0px; }
 .doc .doc_title {
   font-size: 32px;
-  font-family: 'pfdindisplaypro-medium';
+  font-family: 'Exo 2';
   vertical-align: top;
   padding-left: 54px; }
 .doc .nouts {
@@ -839,7 +839,7 @@ h1, h2, h3, h4, h5, h6 {
       padding-left: 59px; }
       .doc .nouts .nout_block .doc_text h2 {
         font-size: 20px;
-        font-family: 'pfdindisplaypro-medium';
+        font-family: 'Exo 2';
         color: #000; }
       .doc .nouts .nout_block .doc_text p {
         font-size: 14px;
@@ -994,11 +994,11 @@ h1, h2, h3, h4, h5, h6 {
         margin-top: 30px;
         margin-left: 10px;
         font-size: 18px;
-        font-family: 'pfdindisplaypro-medium';
+        font-family: 'Exo 2';
         text-align: left; }
       .otziv .otziv_text .zuhra span {
         font-size: 15px;
-        font-family: 'pfdindisplaypro-medium';
+        font-family: 'Exo 2';
         text-align: left;
         margin-left: 9px; }
       .otziv .otziv_text .zuhra h3 {
@@ -1065,7 +1065,7 @@ h1, h2, h3, h4, h5, h6 {
       color: #fff;
       text-align: center;
       margin-top: 80px;
-      font-family: 'pfdindisplaypro-medium';
+      font-family: 'Exo 2';
       padding-top: 20px; }
       .sertifikat .forma p span {
         font-size: 16px;
@@ -1122,7 +1122,7 @@ h1, h2, h3, h4, h5, h6 {
         font-size: 27px;
         color: #fff;
         text-align: center;
-        font-family: 'pfdindisplaypro-medium';
+        font-family: 'Exo 2';
         padding-top: 20px;
         margin-left: 3px; }
         .karta .karta_block .form_valid p span {
@@ -1213,7 +1213,7 @@ h1, h2, h3, h4, h5, h6 {
       border: none;
       margin-top: 3px;
       text-decoration: none;
-      font-family: 'pfdindisplaypro-medium'; }
+      font-family: 'Exo 2'; }
     .footer .right_side p ins {
       color: #57b100;
       font-size: 16px;
@@ -1352,7 +1352,7 @@ h1, h2, h3, h4, h5, h6 {
   z-index: 100;
   display: none; }
   .popup h6 {
-    font-family: 'pfdindisplaypro-medium';
+    font-family: 'Exo 2';
     font-size: 24px;
     text-align: center;
     color: #fff;
@@ -1363,7 +1363,7 @@ h1, h2, h3, h4, h5, h6 {
     color: #fff;
     text-align: center;
     margin-top: 28px;
-    font-family: 'pfdindisplaypro-medium'; }
+    font-family: 'Exo 2'; }
     .popup p span {
       font-size: 16px;
       font-family: 'Exo 2';
@@ -1407,7 +1407,7 @@ h1, h2, h3, h4, h5, h6 {
   .thankyou .th_inside {
     padding: 54px 0 0 150px; }
   .thankyou h4 {
-    font-family: 'pfdindisplaypro-medium';
+    font-family: 'Exo 2';
     font-size: 28px; }
   .thankyou h5 {
     font-size: 18px;
